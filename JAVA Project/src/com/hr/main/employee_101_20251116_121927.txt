@@ -1,0 +1,13 @@
+===== Employee Profile =====
+EmpID: 101
+Name: Shubhangi Tyagi
+Email: shubhangi@email.com
+Total Allowed: 30
+Leave Balance: 21
+Badges: 0
+Last Login: 2025-11-16 12:18:01
+-----------------------------
+
+Requests:
+Req#1000 | WFH | 2025-11-10 -> 2025-11-11 | Days: 2 | Status: APPROVED
+Req#1001 | Others | 2025-11-28 -> 2025-11-30 | Days: 3 | Status: PENDING

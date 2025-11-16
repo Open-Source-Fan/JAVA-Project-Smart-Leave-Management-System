@@ -1,0 +1,3 @@
+ReqID,EmpID,Start,End,Days,Type,Status,Comments
+1000,101,2025-11-10,2025-11-11,2,WFH,APPROVED,Remote work
+1001,101,2025-11-28,2025-11-30,3,Others,APPROVED,Study
